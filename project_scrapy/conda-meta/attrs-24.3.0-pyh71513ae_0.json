@@ -1,0 +1,169 @@
+{
+  "build": "pyh71513ae_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\attrs-24.3.0-pyh71513ae_0",
+  "files": [
+    "Lib/site-packages/attr/__init__.py",
+    "Lib/site-packages/attr/__init__.pyi",
+    "Lib/site-packages/attr/_cmp.py",
+    "Lib/site-packages/attr/_cmp.pyi",
+    "Lib/site-packages/attr/_compat.py",
+    "Lib/site-packages/attr/_config.py",
+    "Lib/site-packages/attr/_funcs.py",
+    "Lib/site-packages/attr/_make.py",
+    "Lib/site-packages/attr/_next_gen.py",
+    "Lib/site-packages/attr/_typing_compat.pyi",
+    "Lib/site-packages/attr/_version_info.py",
+    "Lib/site-packages/attr/_version_info.pyi",
+    "Lib/site-packages/attr/converters.py",
+    "Lib/site-packages/attr/converters.pyi",
+    "Lib/site-packages/attr/exceptions.py",
+    "Lib/site-packages/attr/exceptions.pyi",
+    "Lib/site-packages/attr/filters.py",
+    "Lib/site-packages/attr/filters.pyi",
+    "Lib/site-packages/attr/py.typed",
+    "Lib/site-packages/attr/setters.py",
+    "Lib/site-packages/attr/setters.pyi",
+    "Lib/site-packages/attr/validators.py",
+    "Lib/site-packages/attr/validators.pyi",
+    "Lib/site-packages/attrs-24.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/attrs-24.3.0.dist-info/METADATA",
+    "Lib/site-packages/attrs-24.3.0.dist-info/RECORD",
+    "Lib/site-packages/attrs-24.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/attrs-24.3.0.dist-info/WHEEL",
+    "Lib/site-packages/attrs-24.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/attrs-24.3.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/attrs/__init__.py",
+    "Lib/site-packages/attrs/__init__.pyi",
+    "Lib/site-packages/attrs/converters.py",
+    "Lib/site-packages/attrs/exceptions.py",
+    "Lib/site-packages/attrs/filters.py",
+    "Lib/site-packages/attrs/py.typed",
+    "Lib/site-packages/attrs/setters.py",
+    "Lib/site-packages/attrs/validators.py",
+    ".nonadmin",
+    "Lib/site-packages/attr/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_cmp.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_compat.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_config.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_funcs.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_make.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_next_gen.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/_version_info.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/converters.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/filters.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/setters.cpython-312.pyc",
+    "Lib/site-packages/attr/__pycache__/validators.cpython-312.pyc",
+    "Lib/site-packages/attrs/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/attrs/__pycache__/converters.cpython-312.pyc",
+    "Lib/site-packages/attrs/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/attrs/__pycache__/filters.cpython-312.pyc",
+    "Lib/site-packages/attrs/__pycache__/setters.cpython-312.pyc",
+    "Lib/site-packages/attrs/__pycache__/validators.cpython-312.pyc"
+  ],
+  "fn": "attrs-24.3.0-pyh71513ae_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\attrs-24.3.0-pyh71513ae_0",
+    "type": 1
+  },
+  "md5": "356927ace43302bf6f5926e2a58dae6a",
+  "name": "attrs",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\attrs-24.3.0-pyh71513ae_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_cmp.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_compat.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_config.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_funcs.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_make.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_next_gen.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/_version_info.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/converters.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/filters.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/setters.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attr/__pycache__/validators.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attrs/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attrs/__pycache__/converters.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attrs/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attrs/__pycache__/filters.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attrs/__pycache__/setters.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/attrs/__pycache__/validators.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "750186af694a7130eaf7119fbb56db0d2326d8995ad5b8eae23c622b85fea29a",
+  "size": 56354,
+  "subdir": "noarch",
+  "timestamp": 1734348889000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/attrs-24.3.0-pyh71513ae_0.conda",
+  "version": "24.3.0"
+}

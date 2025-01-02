@@ -1,0 +1,100 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\w3lib-2.2.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/w3lib-2.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/LICENSE",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/METADATA",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/RECORD",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/WHEEL",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/w3lib-2.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/w3lib/__init__.py",
+    "Lib/site-packages/w3lib/_infra.py",
+    "Lib/site-packages/w3lib/_types.py",
+    "Lib/site-packages/w3lib/_url.py",
+    "Lib/site-packages/w3lib/encoding.py",
+    "Lib/site-packages/w3lib/html.py",
+    "Lib/site-packages/w3lib/http.py",
+    "Lib/site-packages/w3lib/py.typed",
+    "Lib/site-packages/w3lib/url.py",
+    "Lib/site-packages/w3lib/util.py",
+    ".nonadmin",
+    "Lib/site-packages/w3lib/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_infra.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_types.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/_url.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/encoding.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/html.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/http.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/url.cpython-312.pyc",
+    "Lib/site-packages/w3lib/__pycache__/util.cpython-312.pyc"
+  ],
+  "fn": "w3lib-2.2.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\w3lib-2.2.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "725eff0e95be7da6adf40ba01c6e6995",
+  "name": "w3lib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\w3lib-2.2.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/_infra.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/_types.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/_url.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/encoding.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/html.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/http.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/url.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/w3lib/__pycache__/util.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b37c7f62da542f53407ba5463a0c8292cd0ec23d7c04eb2aaeb75b342f52e6af",
+  "size": 25695,
+  "subdir": "noarch",
+  "timestamp": 1718193980000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/w3lib-2.2.1-pyhd8ed1ab_0.conda",
+  "version": "2.2.1"
+}

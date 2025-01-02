@@ -1,0 +1,64 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\cssselect-1.2.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/cssselect-1.2.0.dist-info/AUTHORS",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/LICENSE",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/cssselect/__init__.py",
+    "Lib/site-packages/cssselect/parser.py",
+    "Lib/site-packages/cssselect/py.typed",
+    "Lib/site-packages/cssselect/xpath.py",
+    ".nonadmin",
+    "Lib/site-packages/cssselect/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/cssselect/__pycache__/parser.cpython-312.pyc",
+    "Lib/site-packages/cssselect/__pycache__/xpath.cpython-312.pyc"
+  ],
+  "fn": "cssselect-1.2.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\cssselect-1.2.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "a89ece27cf07711a44465fe954fb8f1c",
+  "name": "cssselect",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\cssselect-1.2.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/cssselect/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/cssselect/__pycache__/parser.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/cssselect/__pycache__/xpath.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "be04edb6ae6fffbe891cd5acc4c755e5a69f0d0fbab0d9dbe3496f55d737b086",
+  "size": 21128,
+  "subdir": "noarch",
+  "timestamp": 1666980521000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cssselect-1.2.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.2.0"
+}

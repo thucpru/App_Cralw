@@ -1,0 +1,42 @@
+{
+  "build": "hcfcfb64_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\libiconv-1.17-hcfcfb64_2",
+  "files": [
+    "Library/bin/charset.dll",
+    "Library/bin/iconv.dll",
+    "Library/include/iconv.h",
+    "Library/include/libcharset.h",
+    "Library/include/localcharset.h",
+    "Library/lib/charset.lib",
+    "Library/lib/iconv.lib",
+    ".nonadmin"
+  ],
+  "fn": "libiconv-1.17-hcfcfb64_2.conda",
+  "license": "LGPL-2.1-only",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\libiconv-1.17-hcfcfb64_2",
+    "type": 1
+  },
+  "md5": "e1eb10b1cca179f2baa3601e4efc8712",
+  "name": "libiconv",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\libiconv-1.17-hcfcfb64_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5f844dd19b046d43174ad80c6ea75b5d504020e3b63cfbc4ace97b8730d35c7b",
+  "size": 636146,
+  "subdir": "win-64",
+  "timestamp": 1702682547000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libiconv-1.17-hcfcfb64_2.conda",
+  "version": "1.17"
+}

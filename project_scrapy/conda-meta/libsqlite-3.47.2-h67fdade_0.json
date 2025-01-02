@@ -1,0 +1,39 @@
+{
+  "build": "h67fdade_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\libsqlite-3.47.2-h67fdade_0",
+  "files": [
+    "Library/bin/sqlite3.dll",
+    "Library/include/sqlite3.h",
+    "Library/include/sqlite3ext.h",
+    "Library/lib/sqlite3.lib",
+    ".nonadmin"
+  ],
+  "fn": "libsqlite-3.47.2-h67fdade_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\libsqlite-3.47.2-h67fdade_0",
+    "type": 1
+  },
+  "md5": "ff00095330e0d35a16bd3bdbd1a2d3e7",
+  "name": "libsqlite",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\libsqlite-3.47.2-h67fdade_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ecfc0182c3b2e63c870581be1fa0e4dbdfec70d2011cb4f5bde416ece26c41df",
+  "size": 891292,
+  "subdir": "win-64",
+  "timestamp": 1733762116000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libsqlite-3.47.2-h67fdade_0.conda",
+  "version": "3.47.2"
+}

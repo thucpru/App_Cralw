@@ -1,0 +1,51 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "requests >=1.0.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\requests-file-2.1.0-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/requests_file-2.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/LICENSE",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/METADATA",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/RECORD",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/WHEEL",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/requests_file-2.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/requests_file.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/requests_file.cpython-312.pyc"
+  ],
+  "fn": "requests-file-2.1.0-pyhd8ed1ab_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\requests-file-2.1.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "69be0472744969b97324d5d3b21845a9",
+  "name": "requests-file",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\requests-file-2.1.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/requests_file.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f053df08f961ee7ad0e061cb2c29ef0e3b55196de63b9bb05fa5367e4b498cca",
+  "size": 10303,
+  "subdir": "noarch",
+  "timestamp": 1734343847000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/requests-file-2.1.0-pyhd8ed1ab_1.conda",
+  "version": "2.1.0"
+}

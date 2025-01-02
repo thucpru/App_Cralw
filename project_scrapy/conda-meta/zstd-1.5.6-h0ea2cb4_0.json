@@ -1,0 +1,59 @@
+{
+  "build": "h0ea2cb4_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libzlib >=1.2.13,<2.0.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\zstd-1.5.6-h0ea2cb4_0",
+  "files": [
+    "Library/bin/libzstd.dll",
+    "Library/bin/zstd.dll",
+    "Library/bin/zstd.exe",
+    "Library/include/zdict.h",
+    "Library/include/zstd.h",
+    "Library/include/zstd_errors.h",
+    "Library/lib/cmake/zstd/zstdConfig.cmake",
+    "Library/lib/cmake/zstd/zstdConfigVersion.cmake",
+    "Library/lib/cmake/zstd/zstdTargets-release.cmake",
+    "Library/lib/cmake/zstd/zstdTargets.cmake",
+    "Library/lib/libzstd.lib",
+    "Library/lib/pkgconfig/libzstd.pc",
+    "Library/lib/zstd.lib",
+    ".nonadmin"
+  ],
+  "fn": "zstd-1.5.6-h0ea2cb4_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\zstd-1.5.6-h0ea2cb4_0",
+    "type": 1
+  },
+  "md5": "9a17230f95733c04dc40a2b1e5491d74",
+  "name": "zstd",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\zstd-1.5.6-h0ea2cb4_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libzstd.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/zstd-split_1714722955741/_h_env",
+        "sha256": "db0433e5da208a8177d0c3c7e700757759ae211356c30069108e45383459db79",
+        "sha256_in_prefix": "ca64ef7c39158a932987e6b0c8f9c20a0ef3895d8ce95f3f3efd2f1b1d1c2321",
+        "size_in_bytes": 506
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "768e30dc513568491818fb068ee867c57c514b553915536da09e5d10b4ebf3c3",
+  "size": 349143,
+  "subdir": "win-64",
+  "timestamp": 1714723445000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/zstd-1.5.6-h0ea2cb4_0.conda",
+  "version": "1.5.6"
+}

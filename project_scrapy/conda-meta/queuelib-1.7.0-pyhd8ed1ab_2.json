@@ -1,0 +1,93 @@
+{
+  "build": "pyhd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\queuelib-1.7.0-pyhd8ed1ab_2",
+  "files": [
+    "Lib/site-packages/queuelib-1.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/LICENSE",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/METADATA",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/RECORD",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/WHEEL",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/queuelib-1.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/queuelib/__init__.py",
+    "Lib/site-packages/queuelib/pqueue.py",
+    "Lib/site-packages/queuelib/py.typed",
+    "Lib/site-packages/queuelib/queue.py",
+    "Lib/site-packages/queuelib/rrqueue.py",
+    "Lib/site-packages/queuelib/tests/__init__.py",
+    "Lib/site-packages/queuelib/tests/test_pqueue.py",
+    "Lib/site-packages/queuelib/tests/test_queue.py",
+    "Lib/site-packages/queuelib/tests/test_rrqueue.py",
+    ".nonadmin",
+    "Lib/site-packages/queuelib/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/queuelib/__pycache__/pqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/__pycache__/queue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/__pycache__/rrqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_queue.cpython-312.pyc",
+    "Lib/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-312.pyc"
+  ],
+  "fn": "queuelib-1.7.0-pyhd8ed1ab_2.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\queuelib-1.7.0-pyhd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "b70f02c408b9a07d88e1341f9bfe801b",
+  "name": "queuelib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\queuelib-1.7.0-pyhd8ed1ab_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/queuelib/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/__pycache__/pqueue.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/__pycache__/queue.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/__pycache__/rrqueue.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/tests/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/tests/__pycache__/test_pqueue.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/tests/__pycache__/test_queue.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/queuelib/tests/__pycache__/test_rrqueue.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8f505df1a9fe69f69ba60458b2d456b54bcaedb7187d35c6cd2e3234b5c80387",
+  "size": 17031,
+  "subdir": "noarch",
+  "timestamp": 1734879198000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/queuelib-1.7.0-pyhd8ed1ab_2.conda",
+  "version": "1.7.0"
+}

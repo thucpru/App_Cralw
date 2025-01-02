@@ -1,0 +1,58 @@
+[
+    {
+        "url": "https://truyenwikidich.net/book/index?bookId=657ab7b854b8084f06e1ae0c&start=0&size=501&signKey=e94a73a82a6881f8c3c4397d463527a23d5bc76937b3dc1126acdc00f72279746256734cb1c30f97ea9763827f1dfefb&sign=c4b403ee323974dd992cb3e0b72a0a91f8101486dfd9f4cb9256c7f23226e7c9",
+        "method": "GET",
+        "headers": {
+            "Accept": "*/*",
+            "Referer": "https://truyenwikidich.net/truyen/ach-nan-thien-thu-ZXq3uFS4CE8G4a4M",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "X-KL-saas-Ajax-Request": "Ajax_Request",
+            "X-Requested-With": "XMLHttpRequest",
+            "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://truyenwikidich.net/book/index?bookId=657ab7b854b8084f06e1ae0c&start=501&size=501&signKey=e94a73a82a6881f8c3c4397d463527a23d5bc76937b3dc1126acdc00f72279746256734cb1c30f97ea9763827f1dfefb&sign=7d5f22447a5ec011c2e1fb7bc0b8a657d83643afda15efcb43b1840dc5ccf305",
+        "method": "GET",
+        "headers": {
+            "Accept": "*/*",
+            "Referer": "https://truyenwikidich.net/truyen/ach-nan-thien-thu-ZXq3uFS4CE8G4a4M",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "X-KL-saas-Ajax-Request": "Ajax_Request",
+            "X-Requested-With": "XMLHttpRequest",
+            "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://truyenwikidich.net/book/index?bookId=657ab7b854b8084f06e1ae0c&start=1002&size=501&signKey=e94a73a82a6881f8c3c4397d463527a23d5bc76937b3dc1126acdc00f72279746256734cb1c30f97ea9763827f1dfefb&sign=a0588284e47d3df0e0a501e1421f594fbe8500843a80d7c4dc256fea21563d84",
+        "method": "GET",
+        "headers": {
+            "Accept": "*/*",
+            "Referer": "https://truyenwikidich.net/truyen/ach-nan-thien-thu-ZXq3uFS4CE8G4a4M",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "X-KL-saas-Ajax-Request": "Ajax_Request",
+            "X-Requested-With": "XMLHttpRequest",
+            "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    },
+    {
+        "url": "https://truyenwikidich.net/book/index?bookId=657ab7b854b8084f06e1ae0c&start=1503&size=501&signKey=e94a73a82a6881f8c3c4397d463527a23d5bc76937b3dc1126acdc00f72279746256734cb1c30f97ea9763827f1dfefb&sign=fb8bdfecd59946699c40ed8eb1c1bb4c6def0de26ea7dc25bc4c4cd1807f2107",
+        "method": "GET",
+        "headers": {
+            "Accept": "*/*",
+            "Referer": "https://truyenwikidich.net/truyen/ach-nan-thien-thu-ZXq3uFS4CE8G4a4M",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "X-KL-saas-Ajax-Request": "Ajax_Request",
+            "X-Requested-With": "XMLHttpRequest",
+            "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"Windows\""
+        }
+    }
+]

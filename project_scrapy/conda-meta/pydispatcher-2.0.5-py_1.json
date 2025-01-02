@@ -1,0 +1,77 @@
+{
+  "build": "py_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\pydispatcher-2.0.5-py_1",
+  "files": [
+    "Lib/site-packages/PyDispatcher-2.0.5-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/PyDispatcher-2.0.5-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/PyDispatcher-2.0.5-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/PyDispatcher-2.0.5-py2.7.egg-info/installed-files.txt",
+    "Lib/site-packages/PyDispatcher-2.0.5-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/pydispatch/__init__.py",
+    "Lib/site-packages/pydispatch/dispatcher.py",
+    "Lib/site-packages/pydispatch/errors.py",
+    "Lib/site-packages/pydispatch/robust.py",
+    "Lib/site-packages/pydispatch/robustapply.py",
+    "Lib/site-packages/pydispatch/saferef.py",
+    ".nonadmin",
+    "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/errors.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robust.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-312.pyc",
+    "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-312.pyc"
+  ],
+  "fn": "pydispatcher-2.0.5-py_1.tar.bz2",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\pydispatcher-2.0.5-py_1",
+    "type": 1
+  },
+  "md5": "2929e4719e77db31b13f85592d277222",
+  "name": "pydispatcher",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\pydispatcher-2.0.5-py_1.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/dispatcher.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/errors.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/robust.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/robustapply.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pydispatch/__pycache__/saferef.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f6cfe5a981cb713e3f54d4cb5bc2b51bf5cd096d09e5a550a83091d009adf9fa",
+  "size": 12016,
+  "subdir": "noarch",
+  "timestamp": 1531795677000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pydispatcher-2.0.5-py_1.tar.bz2",
+  "version": "2.0.5"
+}

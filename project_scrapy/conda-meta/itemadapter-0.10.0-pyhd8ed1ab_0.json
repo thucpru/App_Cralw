@@ -1,0 +1,69 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\itemadapter-0.10.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/LICENSE",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/METADATA",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/RECORD",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/WHEEL",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/itemadapter-0.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/itemadapter/__init__.py",
+    "Lib/site-packages/itemadapter/_imports.py",
+    "Lib/site-packages/itemadapter/adapter.py",
+    "Lib/site-packages/itemadapter/py.typed",
+    "Lib/site-packages/itemadapter/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/itemadapter/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/_imports.cpython-312.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/adapter.cpython-312.pyc",
+    "Lib/site-packages/itemadapter/__pycache__/utils.cpython-312.pyc"
+  ],
+  "fn": "itemadapter-0.10.0-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\itemadapter-0.10.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "1b357c58da1d92f913f123dd74caca14",
+  "name": "itemadapter",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\itemadapter-0.10.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/itemadapter/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/itemadapter/__pycache__/_imports.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/itemadapter/__pycache__/adapter.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/itemadapter/__pycache__/utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "201df13c7e9f8f2382137ae4bd4f6d0a800c12c1bdbb6b5d0d703f6c87bff314",
+  "size": 24403,
+  "subdir": "noarch",
+  "timestamp": 1732896920000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/itemadapter-0.10.0-pyhd8ed1ab_0.conda",
+  "version": "0.10.0"
+}

@@ -1,0 +1,102 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\jmespath-1.0.1-pyhd8ed1ab_1",
+  "files": [
+    "Scripts/jp.py",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/jmespath-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/jmespath/__init__.py",
+    "Lib/site-packages/jmespath/ast.py",
+    "Lib/site-packages/jmespath/compat.py",
+    "Lib/site-packages/jmespath/exceptions.py",
+    "Lib/site-packages/jmespath/functions.py",
+    "Lib/site-packages/jmespath/lexer.py",
+    "Lib/site-packages/jmespath/parser.py",
+    "Lib/site-packages/jmespath/visitor.py",
+    ".nonadmin",
+    "Lib/site-packages/jmespath/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/ast.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/compat.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/functions.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/lexer.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/parser.cpython-312.pyc",
+    "Lib/site-packages/jmespath/__pycache__/visitor.cpython-312.pyc"
+  ],
+  "fn": "jmespath-1.0.1-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\jmespath-1.0.1-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "972bdca8f30147135f951847b30399ea",
+  "name": "jmespath",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\jmespath-1.0.1-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/jp.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/jmespath_1733229141657/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+        "sha256": "79621fb77399ed1b40b4c80449080662112ac22d1a08fcc23c83c8f7402e5ba9",
+        "sha256_in_prefix": "2de644085fd13ffe93b9d199ca4d4547e0cf7f1f09b9b33ec5457c6c80cb6d2d",
+        "size_in_bytes": 1945
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/ast.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/compat.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/functions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/lexer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/parser.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jmespath/__pycache__/visitor.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3d2f20ee7fd731e3ff55c189db9c43231bc8bde957875817a609c227bcb295c6",
+  "size": 23708,
+  "subdir": "noarch",
+  "timestamp": 1733229244000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/jmespath-1.0.1-pyhd8ed1ab_1.conda",
+  "version": "1.0.1"
+}

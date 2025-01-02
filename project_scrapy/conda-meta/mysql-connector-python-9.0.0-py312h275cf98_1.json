@@ -1,0 +1,1231 @@
+{
+  "build": "py312h275cf98_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "mysql-libs >=9.0.1,<9.1.0a0",
+    "python >=3.12,<3.13.0a0",
+    "python_abi 3.12.* *_cp312",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\mysql-connector-python-9.0.0-py312h275cf98_1",
+  "files": [
+    "Lib/site-packages/_mysql_connector.cp312-win_amd64.pyd",
+    "Lib/site-packages/mysql/__init__.py",
+    "Lib/site-packages/mysql/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__init__.py",
+    "Lib/site-packages/mysql/connector/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/abstracts.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/authentication.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/charsets.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/connection.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/connection_cext.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/constants.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/conversion.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/cursor.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/cursor_cext.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/custom_types.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/dbapi.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/errorcode.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/errors.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/logger.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/network.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/optionfiles.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/pooling.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/protocol.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/tls_ciphers.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/types.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/abstracts.py",
+    "Lib/site-packages/mysql/connector/aio/__init__.py",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/abstracts.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/authentication.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/charsets.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/connection.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/cursor.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/logger.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/network.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/protocol.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/abstracts.py",
+    "Lib/site-packages/mysql/connector/aio/authentication.py",
+    "Lib/site-packages/mysql/connector/aio/charsets.py",
+    "Lib/site-packages/mysql/connector/aio/connection.py",
+    "Lib/site-packages/mysql/connector/aio/cursor.py",
+    "Lib/site-packages/mysql/connector/aio/logger.py",
+    "Lib/site-packages/mysql/connector/aio/network.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/__init__.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_kerberos_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_ldap_sasl_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_oci_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_webauthn_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/caching_sha2_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/mysql_clear_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/mysql_native_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/sha256_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/aio/plugins/authentication_kerberos_client.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/authentication_ldap_sasl_client.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/authentication_oci_client.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/authentication_webauthn_client.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/caching_sha2_password.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/mysql_clear_password.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/mysql_native_password.py",
+    "Lib/site-packages/mysql/connector/aio/plugins/sha256_password.py",
+    "Lib/site-packages/mysql/connector/aio/protocol.py",
+    "Lib/site-packages/mysql/connector/aio/py.typed",
+    "Lib/site-packages/mysql/connector/aio/utils.py",
+    "Lib/site-packages/mysql/connector/authentication.py",
+    "Lib/site-packages/mysql/connector/charsets.py",
+    "Lib/site-packages/mysql/connector/connection.py",
+    "Lib/site-packages/mysql/connector/connection_cext.py",
+    "Lib/site-packages/mysql/connector/constants.py",
+    "Lib/site-packages/mysql/connector/conversion.py",
+    "Lib/site-packages/mysql/connector/cursor.py",
+    "Lib/site-packages/mysql/connector/cursor_cext.py",
+    "Lib/site-packages/mysql/connector/custom_types.py",
+    "Lib/site-packages/mysql/connector/dbapi.py",
+    "Lib/site-packages/mysql/connector/django/__init__.py",
+    "Lib/site-packages/mysql/connector/django/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/compiler.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/creation.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/features.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/introspection.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/operations.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/schema.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/__pycache__/validation.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/django/base.py",
+    "Lib/site-packages/mysql/connector/django/client.py",
+    "Lib/site-packages/mysql/connector/django/compiler.py",
+    "Lib/site-packages/mysql/connector/django/creation.py",
+    "Lib/site-packages/mysql/connector/django/features.py",
+    "Lib/site-packages/mysql/connector/django/introspection.py",
+    "Lib/site-packages/mysql/connector/django/operations.py",
+    "Lib/site-packages/mysql/connector/django/schema.py",
+    "Lib/site-packages/mysql/connector/django/validation.py",
+    "Lib/site-packages/mysql/connector/errorcode.py",
+    "Lib/site-packages/mysql/connector/errors.py",
+    "Lib/site-packages/mysql/connector/locales/__init__.py",
+    "Lib/site-packages/mysql/connector/locales/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/locales/eng/__init__.py",
+    "Lib/site-packages/mysql/connector/locales/eng/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/locales/eng/__pycache__/client_error.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/locales/eng/client_error.py",
+    "Lib/site-packages/mysql/connector/logger.py",
+    "Lib/site-packages/mysql/connector/network.py",
+    "Lib/site-packages/mysql/connector/opentelemetry/__init__.py",
+    "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/constants.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/context_propagation.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/instrumentation.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/opentelemetry/constants.py",
+    "Lib/site-packages/mysql/connector/opentelemetry/context_propagation.py",
+    "Lib/site-packages/mysql/connector/opentelemetry/instrumentation.py",
+    "Lib/site-packages/mysql/connector/optionfiles.py",
+    "Lib/site-packages/mysql/connector/plugins/__init__.py",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_kerberos_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_ldap_sasl_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_oci_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_webauthn_client.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/caching_sha2_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/mysql_clear_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/mysql_native_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/__pycache__/sha256_password.cpython-312.pyc",
+    "Lib/site-packages/mysql/connector/plugins/authentication_kerberos_client.py",
+    "Lib/site-packages/mysql/connector/plugins/authentication_ldap_sasl_client.py",
+    "Lib/site-packages/mysql/connector/plugins/authentication_oci_client.py",
+    "Lib/site-packages/mysql/connector/plugins/authentication_webauthn_client.py",
+    "Lib/site-packages/mysql/connector/plugins/caching_sha2_password.py",
+    "Lib/site-packages/mysql/connector/plugins/mysql_clear_password.py",
+    "Lib/site-packages/mysql/connector/plugins/mysql_native_password.py",
+    "Lib/site-packages/mysql/connector/plugins/sha256_password.py",
+    "Lib/site-packages/mysql/connector/pooling.py",
+    "Lib/site-packages/mysql/connector/protocol.py",
+    "Lib/site-packages/mysql/connector/py.typed",
+    "Lib/site-packages/mysql/connector/tls_ciphers.py",
+    "Lib/site-packages/mysql/connector/types.py",
+    "Lib/site-packages/mysql/connector/utils.py",
+    "Lib/site-packages/mysql/connector/version.py",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/METADATA",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/RECORD",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/WHEEL",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "mysql-connector-python-9.0.0-py312h275cf98_1.conda",
+  "license": "GPL-2.0-or-later WITH Universal-FOSS-exception-1.0",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\mysql-connector-python-9.0.0-py312h275cf98_1",
+    "type": 1
+  },
+  "md5": "eb626e16d7c078bb13155b6fbe259ec5",
+  "name": "mysql-connector-python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\mysql-connector-python-9.0.0-py312h275cf98_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/_mysql_connector.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "d48cae14318b21e9f6b2e2949f745b4d823f9528fdf792c7806e7cf915b359b2",
+        "sha256_in_prefix": "d48cae14318b21e9f6b2e2949f745b4d823f9528fdf792c7806e7cf915b359b2",
+        "size_in_bytes": 59392
+      },
+      {
+        "_path": "Lib/site-packages/mysql/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mysql/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1779d996683581738071e0382c3a31fc89cc81fe38cc686aa47975655d9fe548",
+        "sha256_in_prefix": "1779d996683581738071e0382c3a31fc89cc81fe38cc686aa47975655d9fe548",
+        "size_in_bytes": 132
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1b3366335158775cfc6423a59deb56530d9a76fd30bbd7712284e7743f4f92ea",
+        "sha256_in_prefix": "1b3366335158775cfc6423a59deb56530d9a76fd30bbd7712284e7743f4f92ea",
+        "size_in_bytes": 3427
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "89d56348d759daa8b70035f4fa4b78ed22808599fc2f12d20f71d38b6e933e8a",
+        "sha256_in_prefix": "89d56348d759daa8b70035f4fa4b78ed22808599fc2f12d20f71d38b6e933e8a",
+        "size_in_bytes": 1681
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/abstracts.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6cd0ee17a0fb45f7982130b6d99461c4e035a3f754a526dba83a282aee3df93",
+        "sha256_in_prefix": "c6cd0ee17a0fb45f7982130b6d99461c4e035a3f754a526dba83a282aee3df93",
+        "size_in_bytes": 104838
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/authentication.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c7325b9badcd732f04372fba1664d7ac260bbf06805e1f4363414cc2a81215c",
+        "sha256_in_prefix": "7c7325b9badcd732f04372fba1664d7ac260bbf06805e1f4363414cc2a81215c",
+        "size_in_bytes": 14078
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/charsets.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6487f00f48f3acd95b42fb77bbf389dbbaa98050c8e4ea9ff6e3b9c0df14bea",
+        "sha256_in_prefix": "e6487f00f48f3acd95b42fb77bbf389dbbaa98050c8e4ea9ff6e3b9c0df14bea",
+        "size_in_bytes": 10199
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/connection.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7be491fd141d706b0d587d090da1456459bbe6e8c5a208bcba72e41905b81386",
+        "sha256_in_prefix": "7be491fd141d706b0d587d090da1456459bbe6e8c5a208bcba72e41905b81386",
+        "size_in_bytes": 64093
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/connection_cext.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d98dd310277bfc27928e10ffcfc1ed6b0fb0578a8da54e57a8bd5572020d86a8",
+        "sha256_in_prefix": "d98dd310277bfc27928e10ffcfc1ed6b0fb0578a8da54e57a8bd5572020d86a8",
+        "size_in_bytes": 44749
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/constants.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf4baeaa6795b2883317d8a6bab2c4e9546f70ceb00ad1f28c073beca26cf0d4",
+        "sha256_in_prefix": "bf4baeaa6795b2883317d8a6bab2c4e9546f70ceb00ad1f28c073beca26cf0d4",
+        "size_in_bytes": 48572
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/conversion.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "465136a85667a31c8f0f44e714f3fa3b680b0b038a33e4a9573f544ddc6900ef",
+        "sha256_in_prefix": "465136a85667a31c8f0f44e714f3fa3b680b0b038a33e4a9573f544ddc6900ef",
+        "size_in_bytes": 30859
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/cursor.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6a7a9fa2aeefffa0ae8ab0d680177e6faabd93e1afed36efde4be5866e1f72a",
+        "sha256_in_prefix": "c6a7a9fa2aeefffa0ae8ab0d680177e6faabd93e1afed36efde4be5866e1f72a",
+        "size_in_bytes": 68393
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/cursor_cext.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c9b88a09d55a2f8634e56a17a33ef76a2c0ab95964d340334f1cb7adcb2f708",
+        "sha256_in_prefix": "1c9b88a09d55a2f8634e56a17a33ef76a2c0ab95964d340334f1cb7adcb2f708",
+        "size_in_bytes": 53027
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/custom_types.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4a28bcfce54529300e01dd104084ebf763840f24a38dc9edbe10a94d72fdcb3",
+        "sha256_in_prefix": "e4a28bcfce54529300e01dd104084ebf763840f24a38dc9edbe10a94d72fdcb3",
+        "size_in_bytes": 1309
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/dbapi.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf02c001deaff54c43374892bb87c73a04c3c7dc694fe625ef44a2719d85c04f",
+        "sha256_in_prefix": "bf02c001deaff54c43374892bb87c73a04c3c7dc694fe625ef44a2719d85c04f",
+        "size_in_bytes": 2995
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/errorcode.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "43fb8762533a2fbbd2dde9c5327c4d77408ce83e6e55ff97a74a83a3f0965919",
+        "sha256_in_prefix": "43fb8762533a2fbbd2dde9c5327c4d77408ce83e6e55ff97a74a83a3f0965919",
+        "size_in_bytes": 90724
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/errors.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ad334fc36c7e5df47dad20d5bdaecacae4b1da15539a6f5b029d979e1c3120b",
+        "sha256_in_prefix": "7ad334fc36c7e5df47dad20d5bdaecacae4b1da15539a6f5b029d979e1c3120b",
+        "size_in_bytes": 10872
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/logger.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf6e0642b2c5cc67e6dd096f8ba5b06d94374dba6b94f04c9547ff27a27ca174",
+        "sha256_in_prefix": "cf6e0642b2c5cc67e6dd096f8ba5b06d94374dba6b94f04c9547ff27a27ca174",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/network.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1385af55cb8d34e0cfdc60adb4c769279ebf19f74d89dc6a3b8d433ebfba4849",
+        "sha256_in_prefix": "1385af55cb8d34e0cfdc60adb4c769279ebf19f74d89dc6a3b8d433ebfba4849",
+        "size_in_bytes": 30109
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/optionfiles.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "9e6e76e95a306b2b30e9b573b42ec20c54c85321d843c11821db444ed658277a",
+        "sha256_in_prefix": "9e6e76e95a306b2b30e9b573b42ec20c54c85321d843c11821db444ed658277a",
+        "size_in_bytes": 14090
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/pooling.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "03fdfdb20d4a46c2b4f0dc9b41a1b17f90658169ad81bd9b389304cbfef28796",
+        "sha256_in_prefix": "03fdfdb20d4a46c2b4f0dc9b41a1b17f90658169ad81bd9b389304cbfef28796",
+        "size_in_bytes": 27429
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/protocol.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb4e0752c5d80dcb8c83227bbf9129d95980f01b2aa458be549061737672481a",
+        "sha256_in_prefix": "cb4e0752c5d80dcb8c83227bbf9129d95980f01b2aa458be549061737672481a",
+        "size_in_bytes": 47061
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/tls_ciphers.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff41883c822f9ec2a12f74519879ee3e0e67be954fc55072754ce742258f29ff",
+        "sha256_in_prefix": "ff41883c822f9ec2a12f74519879ee3e0e67be954fc55072754ce742258f29ff",
+        "size_in_bytes": 7757
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/types.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "523928e24df9938ea20f4d20c75b9c6c7087d078b75b864538305dc56ea86166",
+        "sha256_in_prefix": "523928e24df9938ea20f4d20c75b9c6c7087d078b75b864538305dc56ea86166",
+        "size_in_bytes": 2080
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/utils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e9c69382efb0caf9764a125a44268a59209320de108a089d311272373dfd58f",
+        "sha256_in_prefix": "8e9c69382efb0caf9764a125a44268a59209320de108a089d311272373dfd58f",
+        "size_in_bytes": 28049
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/__pycache__/version.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "08ad0810891f2b28c452c105e7595a946148b062e37a7af67434456814eb08e9",
+        "sha256_in_prefix": "08ad0810891f2b28c452c105e7595a946148b062e37a7af67434456814eb08e9",
+        "size_in_bytes": 662
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/abstracts.py",
+        "path_type": "hardlink",
+        "sha256": "61cfa0cc763dc54fc9e614cf3a0a2abb8c34634c12f1a0fa3b1c9162b5f28d48",
+        "sha256_in_prefix": "61cfa0cc763dc54fc9e614cf3a0a2abb8c34634c12f1a0fa3b1c9162b5f28d48",
+        "size_in_bytes": 98027
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c0dcafdd6dd02f17f7039625718e18c15919f2fbe7e6d300984459138c3cee90",
+        "sha256_in_prefix": "c0dcafdd6dd02f17f7039625718e18c15919f2fbe7e6d300984459138c3cee90",
+        "size_in_bytes": 9256
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "96d4ee9dd12f7664d12becd35d6ce3f951a2c69ade7d0ab5004c694e6426e956",
+        "sha256_in_prefix": "96d4ee9dd12f7664d12becd35d6ce3f951a2c69ade7d0ab5004c694e6426e956",
+        "size_in_bytes": 8555
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/abstracts.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "155b99a954ab60ead4d3e6af0450a3749a43a3a8276ca4d6b526dd5ffc940a0a",
+        "sha256_in_prefix": "155b99a954ab60ead4d3e6af0450a3749a43a3a8276ca4d6b526dd5ffc940a0a",
+        "size_in_bytes": 82986
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/authentication.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5cd106b5e2218f5730694919739f9fdc9f25b2e60dd05efc9a031605dcc429d3",
+        "sha256_in_prefix": "5cd106b5e2218f5730694919739f9fdc9f25b2e60dd05efc9a031605dcc429d3",
+        "size_in_bytes": 12283
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/charsets.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b6e611c955dadc64506c2c4621a0544142768e2d73d0aee5b716644cd24f140e",
+        "sha256_in_prefix": "b6e611c955dadc64506c2c4621a0544142768e2d73d0aee5b716644cd24f140e",
+        "size_in_bytes": 17315
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/connection.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2903c5550d26ca81a09344f474a5699ca1b9b977ced815ed80ea03a75f684f06",
+        "sha256_in_prefix": "2903c5550d26ca81a09344f474a5699ca1b9b977ced815ed80ea03a75f684f06",
+        "size_in_bytes": 63236
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/cursor.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a63d4ee460a95e15affeb63f808484a885687333be865d7cf09e26a9e8ab5aa",
+        "sha256_in_prefix": "4a63d4ee460a95e15affeb63f808484a885687333be865d7cf09e26a9e8ab5aa",
+        "size_in_bytes": 67369
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/logger.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d26ae0cf495214bce3b8d782c2be478125d13c23536bd0a2c4b432a8725dbc89",
+        "sha256_in_prefix": "d26ae0cf495214bce3b8d782c2be478125d13c23536bd0a2c4b432a8725dbc89",
+        "size_in_bytes": 323
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/network.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "365031876bd8bb01f0827ea0d4dce74164774cbd6327b19f82a0caea707b0a26",
+        "sha256_in_prefix": "365031876bd8bb01f0827ea0d4dce74164774cbd6327b19f82a0caea707b0a26",
+        "size_in_bytes": 28066
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/protocol.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7eb97799641784931aae676014cc187a5f75fbf8f9170e6f767a7ffb0413b762",
+        "sha256_in_prefix": "7eb97799641784931aae676014cc187a5f75fbf8f9170e6f767a7ffb0413b762",
+        "size_in_bytes": 11490
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/__pycache__/utils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed0b6ed89fc8b589931d2b379e5e4f51c9309ae4fe3cd89cc4450c2a19d470da",
+        "sha256_in_prefix": "ed0b6ed89fc8b589931d2b379e5e4f51c9309ae4fe3cd89cc4450c2a19d470da",
+        "size_in_bytes": 5877
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/abstracts.py",
+        "path_type": "hardlink",
+        "sha256": "f481efc1cd5e696be00a5244d512aa4acac746c638e9f0ca8e1571cf7c2a82a3",
+        "sha256_in_prefix": "f481efc1cd5e696be00a5244d512aa4acac746c638e9f0ca8e1571cf7c2a82a3",
+        "size_in_bytes": 71366
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/authentication.py",
+        "path_type": "hardlink",
+        "sha256": "5281d96365318963f30328835a9c0b6ffa0cbd5d6e985ecc645afc8730934cd5",
+        "sha256_in_prefix": "5281d96365318963f30328835a9c0b6ffa0cbd5d6e985ecc645afc8730934cd5",
+        "size_in_bytes": 12153
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/charsets.py",
+        "path_type": "hardlink",
+        "sha256": "dd6c5e75736f0a69e4240915d1e71e1352ca1c4468e38a0079b14d6523bd3845",
+        "sha256_in_prefix": "dd6c5e75736f0a69e4240915d1e71e1352ca1c4468e38a0079b14d6523bd3845",
+        "size_in_bytes": 30367
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/connection.py",
+        "path_type": "hardlink",
+        "sha256": "8230874a8c3f06d480b7b6e4bf094cda1398190ecf77f2b1965443480a628095",
+        "sha256_in_prefix": "8230874a8c3f06d480b7b6e4bf094cda1398190ecf77f2b1965443480a628095",
+        "size_in_bytes": 51703
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/cursor.py",
+        "path_type": "hardlink",
+        "sha256": "91a4f2906701702f4b12bd8136bf66e604dc15b7e66eefbc9be1d53377e9c09e",
+        "sha256_in_prefix": "91a4f2906701702f4b12bd8136bf66e604dc15b7e66eefbc9be1d53377e9c09e",
+        "size_in_bytes": 53547
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/logger.py",
+        "path_type": "hardlink",
+        "sha256": "a7802885228ae5afa4308443c4149ff86b5f22f924c17a023bda6ea89934076f",
+        "sha256_in_prefix": "a7802885228ae5afa4308443c4149ff86b5f22f924c17a023bda6ea89934076f",
+        "size_in_bytes": 1563
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/network.py",
+        "path_type": "hardlink",
+        "sha256": "19c9285e93c62ff55116a54797fb04a8a0cd24e766362c80b1f9a5edf792d519",
+        "sha256_in_prefix": "19c9285e93c62ff55116a54797fb04a8a0cd24e766362c80b1f9a5edf792d519",
+        "size_in_bytes": 24928
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6be15056513c6d74eb07d319d517ac8cf040a6277dd3cc14de0aebf313ed040c",
+        "sha256_in_prefix": "6be15056513c6d74eb07d319d517ac8cf040a6277dd3cc14de0aebf313ed040c",
+        "size_in_bytes": 6115
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "26ef2e99782ae341d0a985c4dcbda220ead2d8816454b16f8d6a3307eb153d45",
+        "sha256_in_prefix": "26ef2e99782ae341d0a985c4dcbda220ead2d8816454b16f8d6a3307eb153d45",
+        "size_in_bytes": 6134
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_kerberos_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed6e09f57dee64652ad5a1ab802943687036eff082ddfee065adbbf2e0304c95",
+        "sha256_in_prefix": "ed6e09f57dee64652ad5a1ab802943687036eff082ddfee065adbbf2e0304c95",
+        "size_in_bytes": 23277
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_ldap_sasl_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ab1f5fad32079fecaf147893dcc4e1bbdbfdd835b00bb3407e6fe94fdee61c44",
+        "sha256_in_prefix": "ab1f5fad32079fecaf147893dcc4e1bbdbfdd835b00bb3407e6fe94fdee61c44",
+        "size_in_bytes": 28323
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_oci_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1f616a7cadd2a35e0254cadacf7dc44269c38651a96b764031f45b28c4fb4f22",
+        "sha256_in_prefix": "1f616a7cadd2a35e0254cadacf7dc44269c38651a96b764031f45b28c4fb4f22",
+        "size_in_bytes": 10368
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/authentication_webauthn_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "57c04d43a638d199e562e06a3c69006201d347e65268cc92619ca10102999784",
+        "sha256_in_prefix": "57c04d43a638d199e562e06a3c69006201d347e65268cc92619ca10102999784",
+        "size_in_bytes": 11308
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/caching_sha2_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "59e0ea13e15f2ebedd6c67e59dacd8fe3a9983cb5ba757053ff12fd04141e14c",
+        "sha256_in_prefix": "59e0ea13e15f2ebedd6c67e59dacd8fe3a9983cb5ba757053ff12fd04141e14c",
+        "size_in_bytes": 6290
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/mysql_clear_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "de2d73b1875516bfe920f71349ff56435e54478a2c9c78022cd6c4bcb548361e",
+        "sha256_in_prefix": "de2d73b1875516bfe920f71349ff56435e54478a2c9c78022cd6c4bcb548361e",
+        "size_in_bytes": 3867
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/mysql_native_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "629fcdd3f2a5755ebecf4e9f6c908e00018df9e1900b0d3a58fff304260d58bb",
+        "sha256_in_prefix": "629fcdd3f2a5755ebecf4e9f6c908e00018df9e1900b0d3a58fff304260d58bb",
+        "size_in_bytes": 4715
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/__pycache__/sha256_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8773c47e92018f219b0398d1e67dda116793e090306d992c6dab529734616469",
+        "sha256_in_prefix": "8773c47e92018f219b0398d1e67dda116793e090306d992c6dab529734616469",
+        "size_in_bytes": 4011
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/authentication_kerberos_client.py",
+        "path_type": "hardlink",
+        "sha256": "235d1032558b58a0bcf37c86ad343267392f97be71722762476ebaced617f410",
+        "sha256_in_prefix": "235d1032558b58a0bcf37c86ad343267392f97be71722762476ebaced617f410",
+        "size_in_bytes": 21691
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/authentication_ldap_sasl_client.py",
+        "path_type": "hardlink",
+        "sha256": "2aeecf25c4575b45ff64580b26035ee41d1411ebd6cfae99fb0a4a5e35c28a5e",
+        "sha256_in_prefix": "2aeecf25c4575b45ff64580b26035ee41d1411ebd6cfae99fb0a4a5e35c28a5e",
+        "size_in_bytes": 24075
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/authentication_oci_client.py",
+        "path_type": "hardlink",
+        "sha256": "4591671d11a8e330c293d39a303676d67ef59584edb7f04907b84370d8d1c6a2",
+        "sha256_in_prefix": "4591671d11a8e330c293d39a303676d67ef59584edb7f04907b84370d8d1c6a2",
+        "size_in_bytes": 9406
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/authentication_webauthn_client.py",
+        "path_type": "hardlink",
+        "sha256": "3c9cc68c5b547551eeb3aa603a54fd429af05375ff97cf37030f417373003651",
+        "sha256_in_prefix": "3c9cc68c5b547551eeb3aa603a54fd429af05375ff97cf37030f417373003651",
+        "size_in_bytes": 10972
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/caching_sha2_password.py",
+        "path_type": "hardlink",
+        "sha256": "2675a2139886887603100b2f829fd75f97c3ee0f9595ef811b9d411412d1b04a",
+        "sha256_in_prefix": "2675a2139886887603100b2f829fd75f97c3ee0f9595ef811b9d411412d1b04a",
+        "size_in_bytes": 5916
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/mysql_clear_password.py",
+        "path_type": "hardlink",
+        "sha256": "a8d10fb1d6a1ed4de843049ce1052a3b1ca65ab50b9190330683546a3ec4a224",
+        "sha256_in_prefix": "a8d10fb1d6a1ed4de843049ce1052a3b1ca65ab50b9190330683546a3ec4a224",
+        "size_in_bytes": 3927
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/mysql_native_password.py",
+        "path_type": "hardlink",
+        "sha256": "64b5105b9d76c09ac117881ecfa9a74ab243298109273bc35a046289dc19a49f",
+        "sha256_in_prefix": "64b5105b9d76c09ac117881ecfa9a74ab243298109273bc35a046289dc19a49f",
+        "size_in_bytes": 4581
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/plugins/sha256_password.py",
+        "path_type": "hardlink",
+        "sha256": "49b7244525c8b67be010d0dcdd18fc33f5211525c6f69de38feb16101b55830e",
+        "sha256_in_prefix": "49b7244525c8b67be010d0dcdd18fc33f5211525c6f69de38feb16101b55830e",
+        "size_in_bytes": 4067
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/protocol.py",
+        "path_type": "hardlink",
+        "sha256": "9695dc9812e6a5124f1e9612742794eea46706d1bd1c0e64a0ee89fac194c458",
+        "sha256_in_prefix": "9695dc9812e6a5124f1e9612742794eea46706d1bd1c0e64a0ee89fac194c458",
+        "size_in_bytes": 12597
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/aio/utils.py",
+        "path_type": "hardlink",
+        "sha256": "325135f51fe3c7e16368c43a41f0db4c510f5b94b448fb0b8e7ec9c02459221b",
+        "sha256_in_prefix": "325135f51fe3c7e16368c43a41f0db4c510f5b94b448fb0b8e7ec9c02459221b",
+        "size_in_bytes": 5742
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/authentication.py",
+        "path_type": "hardlink",
+        "sha256": "b66468fe558d1fbf898660a9a9937e7748132e571f2139421bf046804fb6e3e1",
+        "sha256_in_prefix": "b66468fe558d1fbf898660a9a9937e7748132e571f2139421bf046804fb6e3e1",
+        "size_in_bytes": 14115
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/charsets.py",
+        "path_type": "hardlink",
+        "sha256": "b381ef743e794ae4075a53f99c91f1591c1b6adef73ba88ef28a6dc98d02d1ef",
+        "sha256_in_prefix": "b381ef743e794ae4075a53f99c91f1591c1b6adef73ba88ef28a6dc98d02d1ef",
+        "size_in_bytes": 27754
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/connection.py",
+        "path_type": "hardlink",
+        "sha256": "e052ac57f3866eae163c81dc9d75db0bda347fc2dab89b247ef1574ccc7fa002",
+        "sha256_in_prefix": "e052ac57f3866eae163c81dc9d75db0bda347fc2dab89b247ef1574ccc7fa002",
+        "size_in_bytes": 56070
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/connection_cext.py",
+        "path_type": "hardlink",
+        "sha256": "42ef795e1ca1cd9c64aae2451d8301cce820e72af1ccd5cd51e65eabd0ab6d89",
+        "sha256_in_prefix": "42ef795e1ca1cd9c64aae2451d8301cce820e72af1ccd5cd51e65eabd0ab6d89",
+        "size_in_bytes": 38346
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/constants.py",
+        "path_type": "hardlink",
+        "sha256": "99747ae1f991124c127b11c4fe0fa6c8f265636a7d7a567169d88d1743319680",
+        "sha256_in_prefix": "99747ae1f991124c127b11c4fe0fa6c8f265636a7d7a567169d88d1743319680",
+        "size_in_bytes": 42851
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/conversion.py",
+        "path_type": "hardlink",
+        "sha256": "345cb66c7d685de1471ede33c0acdac1bd75cd78e1777eb4a6c1a1c8c47965e0",
+        "sha256_in_prefix": "345cb66c7d685de1471ede33c0acdac1bd75cd78e1777eb4a6c1a1c8c47965e0",
+        "size_in_bytes": 26522
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/cursor.py",
+        "path_type": "hardlink",
+        "sha256": "c969e106e83e17dde291504cbde4b9d98c752a4adfeeb592d6ac3374934ca71b",
+        "sha256_in_prefix": "c969e106e83e17dde291504cbde4b9d98c752a4adfeeb592d6ac3374934ca71b",
+        "size_in_bytes": 58230
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/cursor_cext.py",
+        "path_type": "hardlink",
+        "sha256": "6e97ba3112a1df09a76b361d0324be35dd5aaed421f7710a020dfa0ef428b74a",
+        "sha256_in_prefix": "6e97ba3112a1df09a76b361d0324be35dd5aaed421f7710a020dfa0ef428b74a",
+        "size_in_bytes": 44999
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/custom_types.py",
+        "path_type": "hardlink",
+        "sha256": "874ac97160f5fe21e7072176373e24cf77a48510be0abfe34bdcf5db8409d379",
+        "sha256_in_prefix": "874ac97160f5fe21e7072176373e24cf77a48510be0abfe34bdcf5db8409d379",
+        "size_in_bytes": 2008
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/dbapi.py",
+        "path_type": "hardlink",
+        "sha256": "05ba2be5faac1244fa53956f40115f99bfc7e7cd53127b43d879d8a0b134fd2a",
+        "sha256_in_prefix": "05ba2be5faac1244fa53956f40115f99bfc7e7cd53127b43d879d8a0b134fd2a",
+        "size_in_bytes": 3258
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b763f6aa2b379fb503232898cd1694de3f620e11b033d3c62da5efdf4230c93",
+        "sha256_in_prefix": "6b763f6aa2b379fb503232898cd1694de3f620e11b033d3c62da5efdf4230c93",
+        "size_in_bytes": 149
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/base.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ccaa55cc89506e26f97e5b14ad39023ce8837aa03644f04f303794226e64da3",
+        "sha256_in_prefix": "3ccaa55cc89506e26f97e5b14ad39023ce8837aa03644f04f303794226e64da3",
+        "size_in_bytes": 26387
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "12c420688961c0d12e76bf4d09c30874c142f125d86374ac6f1a9b8d996b6981",
+        "sha256_in_prefix": "12c420688961c0d12e76bf4d09c30874c142f125d86374ac6f1a9b8d996b6981",
+        "size_in_bytes": 3758
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/compiler.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "659298584367b429b4ef9a8d258e443144b4075fc281f201117dcfef6f5bdc36",
+        "sha256_in_prefix": "659298584367b429b4ef9a8d258e443144b4075fc281f201117dcfef6f5bdc36",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/creation.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "20476e57308218f5a60871d7306cb04cff96890049839ad77d53365297017213",
+        "sha256_in_prefix": "20476e57308218f5a60871d7306cb04cff96890049839ad77d53365297017213",
+        "size_in_bytes": 309
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/features.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "99e1abc6d9f46031aeaafdf3289d2a767b566e4d9330a4e41a1585aa9ef1bb7c",
+        "sha256_in_prefix": "99e1abc6d9f46031aeaafdf3289d2a767b566e4d9330a4e41a1585aa9ef1bb7c",
+        "size_in_bytes": 1453
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/introspection.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8dc8a6886522b20f71668f14721b49e554462bb4500e6879115cb887e875f68",
+        "sha256_in_prefix": "c8dc8a6886522b20f71668f14721b49e554462bb4500e6879115cb887e875f68",
+        "size_in_bytes": 17957
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/operations.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "63ff9f9ac93c3a203c7df92cc7e6ece4ce8919f77446f2d1b5b79b24b2bbfc53",
+        "sha256_in_prefix": "63ff9f9ac93c3a203c7df92cc7e6ece4ce8919f77446f2d1b5b79b24b2bbfc53",
+        "size_in_bytes": 3951
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/schema.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b15485b6127d58896ec4bd1eb1bb35d645c30e2fa04e1d6567a2da950bc12e8b",
+        "sha256_in_prefix": "b15485b6127d58896ec4bd1eb1bb35d645c30e2fa04e1d6567a2da950bc12e8b",
+        "size_in_bytes": 1641
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/__pycache__/validation.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8712c01ad785815c69e7db6efb2b01d7c712313246ebf31d07bd555b99641f65",
+        "sha256_in_prefix": "8712c01ad785815c69e7db6efb2b01d7c712313246ebf31d07bd555b99641f65",
+        "size_in_bytes": 317
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/base.py",
+        "path_type": "hardlink",
+        "sha256": "9e7c9288df4f85c7bf7a105decebe3ab3d847afb6fe638f1cd3789da7bd1ec6d",
+        "sha256_in_prefix": "9e7c9288df4f85c7bf7a105decebe3ab3d847afb6fe638f1cd3789da7bd1ec6d",
+        "size_in_bytes": 24345
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/client.py",
+        "path_type": "hardlink",
+        "sha256": "c51e42a62cfe1a427ab37387da8cb45a28e89a64350e4002e7693a075b016449",
+        "sha256_in_prefix": "c51e42a62cfe1a427ab37387da8cb45a28e89a64350e4002e7693a075b016449",
+        "size_in_bytes": 4163
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/compiler.py",
+        "path_type": "hardlink",
+        "sha256": "3b49be10698872058f08590602c67ad960e8cd5a833e967bebd6aafcd6425496",
+        "sha256_in_prefix": "3b49be10698872058f08590602c67ad960e8cd5a833e967bebd6aafcd6425496",
+        "size_in_bytes": 1775
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/creation.py",
+        "path_type": "hardlink",
+        "sha256": "73c4279230f12d369a87e873256b4f000a96ceac04bb65945c1c2a514e24e677",
+        "sha256_in_prefix": "73c4279230f12d369a87e873256b4f000a96ceac04bb65945c1c2a514e24e677",
+        "size_in_bytes": 1585
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/features.py",
+        "path_type": "hardlink",
+        "sha256": "e57e97d32019f34c0f935b152e236eb441d4a9d809425f574186ff1725ccb448",
+        "sha256_in_prefix": "e57e97d32019f34c0f935b152e236eb441d4a9d809425f574186ff1725ccb448",
+        "size_in_bytes": 2218
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/introspection.py",
+        "path_type": "hardlink",
+        "sha256": "48c9e702ba1ebfc8e85d0da94d626a21eefe47395f96a25e30c8b47bb8984d8b",
+        "sha256_in_prefix": "48c9e702ba1ebfc8e85d0da94d626a21eefe47395f96a25e30c8b47bb8984d8b",
+        "size_in_bytes": 19078
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/operations.py",
+        "path_type": "hardlink",
+        "sha256": "8acc9517e3708a429013b13c7b04c7de01778afa98dd81664b22dbc2901011d1",
+        "sha256_in_prefix": "8acc9517e3708a429013b13c7b04c7de01778afa98dd81664b22dbc2901011d1",
+        "size_in_bytes": 4321
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/schema.py",
+        "path_type": "hardlink",
+        "sha256": "11100d5d8b8257adad513aab211672431e25e770e7b2f935fe04bdb45162065f",
+        "sha256_in_prefix": "11100d5d8b8257adad513aab211672431e25e770e7b2f935fe04bdb45162065f",
+        "size_in_bytes": 2408
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/django/validation.py",
+        "path_type": "hardlink",
+        "sha256": "5aeea02b7702ca0ddd1167158bd9469e309f25dfc68fb8ecc4febabf66ac3dde",
+        "sha256_in_prefix": "5aeea02b7702ca0ddd1167158bd9469e309f25dfc68fb8ecc4febabf66ac3dde",
+        "size_in_bytes": 1593
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/errorcode.py",
+        "path_type": "hardlink",
+        "sha256": "9f3a7dd3c8500d7f2dc129847fd28b7dbfe381987d8b425aeacf8199d11a4108",
+        "sha256_in_prefix": "9f3a7dd3c8500d7f2dc129847fd28b7dbfe381987d8b425aeacf8199d11a4108",
+        "size_in_bytes": 69369
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/errors.py",
+        "path_type": "hardlink",
+        "sha256": "34ab02f34ddc5a56a02bcceedd69ff7a3b0bce22de21d7dbc950a38daac4690a",
+        "sha256_in_prefix": "34ab02f34ddc5a56a02bcceedd69ff7a3b0bce22de21d7dbc950a38daac4690a",
+        "size_in_bytes": 11654
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/locales/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d0fb408c9919106c137d339aa81e78b3357d927407d8223a0f77708e5d27fc63",
+        "sha256_in_prefix": "d0fb408c9919106c137d339aa81e78b3357d927407d8223a0f77708e5d27fc63",
+        "size_in_bytes": 2871
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/locales/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5648c2c54528a288a79a1ca9c870d84e1a8d7c2dc274471da04d47ae86ae4aaa",
+        "sha256_in_prefix": "5648c2c54528a288a79a1ca9c870d84e1a8d7c2dc274471da04d47ae86ae4aaa",
+        "size_in_bytes": 1980
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/locales/eng/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0ac40ad07858dad73e52eca4ff7a8a842d163f2a02ff37d53c84a65188b999a3",
+        "sha256_in_prefix": "0ac40ad07858dad73e52eca4ff7a8a842d163f2a02ff37d53c84a65188b999a3",
+        "size_in_bytes": 1470
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/locales/eng/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7433a3d92bfdd211dd1a69a55a444b14a560f35173e4b43d62eb9300ba010e6a",
+        "sha256_in_prefix": "7433a3d92bfdd211dd1a69a55a444b14a560f35173e4b43d62eb9300ba010e6a",
+        "size_in_bytes": 187
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/locales/eng/__pycache__/client_error.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a2357e4cd982f6590304399270b463891cf06cbf62c045f4301079464cbe9eb",
+        "sha256_in_prefix": "4a2357e4cd982f6590304399270b463891cf06cbf62c045f4301079464cbe9eb",
+        "size_in_bytes": 6617
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/locales/eng/client_error.py",
+        "path_type": "hardlink",
+        "sha256": "41410d37aa81fa6cedfd09ade23b82f70c98d6ef0863a93027200df0e0606313",
+        "sha256_in_prefix": "41410d37aa81fa6cedfd09ade23b82f70c98d6ef0863a93027200df0e0606313",
+        "size_in_bytes": 7501
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/logger.py",
+        "path_type": "hardlink",
+        "sha256": "1cdf81e493972c6b6d5953cad111444136659fdc8b0010c55c168385155fe16b",
+        "sha256_in_prefix": "1cdf81e493972c6b6d5953cad111444136659fdc8b0010c55c168385155fe16b",
+        "size_in_bytes": 1555
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/network.py",
+        "path_type": "hardlink",
+        "sha256": "8bc6eacdd622afa96cc62de7f487a25b30a531762d024ff65e88914ace6bb86f",
+        "sha256_in_prefix": "8bc6eacdd622afa96cc62de7f487a25b30a531762d024ff65e88914ace6bb86f",
+        "size_in_bytes": 28107
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a5e804399d0dabe93eb43288520e61813f7fe7d966d548d4425874674ce9d25c",
+        "sha256_in_prefix": "a5e804399d0dabe93eb43288520e61813f7fe7d966d548d4425874674ce9d25c",
+        "size_in_bytes": 156
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/constants.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "63c48575673391a6d752be5512ac96a0d32cecbb3cfc4ee27091b44bf23ed2c9",
+        "sha256_in_prefix": "63c48575673391a6d752be5512ac96a0d32cecbb3cfc4ee27091b44bf23ed2c9",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/context_propagation.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "18c6d9d2fda4ce1058369fef1dc502806c4ea8a34fae2c90ee83eb580330fa7a",
+        "sha256_in_prefix": "18c6d9d2fda4ce1058369fef1dc502806c4ea8a34fae2c90ee83eb580330fa7a",
+        "size_in_bytes": 3413
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/__pycache__/instrumentation.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "f3b15f33fb7f3a9f14f78edc6b185d6eb5b0560ad1652518405fd52427dc2eda",
+        "sha256_in_prefix": "f3b15f33fb7f3a9f14f78edc6b185d6eb5b0560ad1652518405fd52427dc2eda",
+        "size_in_bytes": 29551
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/constants.py",
+        "path_type": "hardlink",
+        "sha256": "c28ac27768a49606ac5d9e7e277cf075c7a9b9948ec7875a3c3cacc093643e09",
+        "sha256_in_prefix": "c28ac27768a49606ac5d9e7e277cf075c7a9b9948ec7875a3c3cacc093643e09",
+        "size_in_bytes": 2904
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/context_propagation.py",
+        "path_type": "hardlink",
+        "sha256": "790a7cefe58372522babc064b617cde737967dea23bf2c11fd72bb0cd7657cfa",
+        "sha256_in_prefix": "790a7cefe58372522babc064b617cde737967dea23bf2c11fd72bb0cd7657cfa",
+        "size_in_bytes": 4321
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/opentelemetry/instrumentation.py",
+        "path_type": "hardlink",
+        "sha256": "22f3536b5b6ee5b6e6b09019aa364c36d50f6e0727a6dc73e6de8131bfdc94db",
+        "sha256_in_prefix": "22f3536b5b6ee5b6e6b09019aa364c36d50f6e0727a6dc73e6de8131bfdc94db",
+        "size_in_bytes": 24986
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/optionfiles.py",
+        "path_type": "hardlink",
+        "sha256": "2e222368e1c8a2d5588fe6be24b14697342a39f365c119631c021f5ddb8bad78",
+        "sha256_in_prefix": "2e222368e1c8a2d5588fe6be24b14697342a39f365c119631c021f5ddb8bad78",
+        "size_in_bytes": 13808
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a5912d5968fb9442e7667032e28a50deaf37ef2c24ee8afa08b3cad22092f653",
+        "sha256_in_prefix": "a5912d5968fb9442e7667032e28a50deaf37ef2c24ee8afa08b3cad22092f653",
+        "size_in_bytes": 6021
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "630ed5825fdba772feff0320913e2c58e8aea0f8d90feff56059bb071d73b396",
+        "sha256_in_prefix": "630ed5825fdba772feff0320913e2c58e8aea0f8d90feff56059bb071d73b396",
+        "size_in_bytes": 6019
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_kerberos_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c36dcddaaad3677c43783c8ee4ef5a77d1a8ffb258c7e7a9963d4b975ca52d22",
+        "sha256_in_prefix": "c36dcddaaad3677c43783c8ee4ef5a77d1a8ffb258c7e7a9963d4b975ca52d22",
+        "size_in_bytes": 22969
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_ldap_sasl_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b85cf75282d83101cb89f71d90c0f10bf51af0f0e4b04d35e9304798df972aa3",
+        "sha256_in_prefix": "b85cf75282d83101cb89f71d90c0f10bf51af0f0e4b04d35e9304798df972aa3",
+        "size_in_bytes": 27719
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_oci_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "040949075bb13666f68967faab0b1eef9ffd1cf74fad57515ad3cd990edf3d76",
+        "sha256_in_prefix": "040949075bb13666f68967faab0b1eef9ffd1cf74fad57515ad3cd990edf3d76",
+        "size_in_bytes": 10216
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/authentication_webauthn_client.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "2c7f794b37d042df70ee2ad2bf88c61ce24b8144b011f77735a87fc5b1e8cef9",
+        "sha256_in_prefix": "2c7f794b37d042df70ee2ad2bf88c61ce24b8144b011f77735a87fc5b1e8cef9",
+        "size_in_bytes": 10975
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/caching_sha2_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4598be15de7b9ec87e660d47839da0e5e940d809ce814d2ed2fe5735abb5c113",
+        "sha256_in_prefix": "4598be15de7b9ec87e660d47839da0e5e940d809ce814d2ed2fe5735abb5c113",
+        "size_in_bytes": 6034
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/mysql_clear_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "95aabab1c11c69384c05ef94533d774f54e1ce55a2cb41e1f485bb53c72a8170",
+        "sha256_in_prefix": "95aabab1c11c69384c05ef94533d774f54e1ce55a2cb41e1f485bb53c72a8170",
+        "size_in_bytes": 3714
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/mysql_native_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "68ff68fae9c841bbc0d30c43df439ebad5f320cc4f964a28b4eddc7bfcdc5c3a",
+        "sha256_in_prefix": "68ff68fae9c841bbc0d30c43df439ebad5f320cc4f964a28b4eddc7bfcdc5c3a",
+        "size_in_bytes": 4563
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/__pycache__/sha256_password.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ab1e3b5d43359b207b47310c97fa2955f78bfdc5683c35aae38debfa0a060320",
+        "sha256_in_prefix": "ab1e3b5d43359b207b47310c97fa2955f78bfdc5683c35aae38debfa0a060320",
+        "size_in_bytes": 3858
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/authentication_kerberos_client.py",
+        "path_type": "hardlink",
+        "sha256": "03ceabbacede3b372b5bd487a0033b8953df35aa52b069decd952ae380b6d54f",
+        "sha256_in_prefix": "03ceabbacede3b372b5bd487a0033b8953df35aa52b069decd952ae380b6d54f",
+        "size_in_bytes": 21624
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/authentication_ldap_sasl_client.py",
+        "path_type": "hardlink",
+        "sha256": "670fe2c3037ce02cc700fa267422cafb0e5d18710ec251ee97162860772b0ed9",
+        "sha256_in_prefix": "670fe2c3037ce02cc700fa267422cafb0e5d18710ec251ee97162860772b0ed9",
+        "size_in_bytes": 23935
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/authentication_oci_client.py",
+        "path_type": "hardlink",
+        "sha256": "5b10b2cd7fa10d6746f209c6238cf9fedab1c1a6e8d3468fc0724ea245e86703",
+        "sha256_in_prefix": "5b10b2cd7fa10d6746f209c6238cf9fedab1c1a6e8d3468fc0724ea245e86703",
+        "size_in_bytes": 9360
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/authentication_webauthn_client.py",
+        "path_type": "hardlink",
+        "sha256": "523d73414e0894849e4c40d9019b3664ebaa7a295b34bf9f66f5d1cb8c0ac45d",
+        "sha256_in_prefix": "523d73414e0894849e4c40d9019b3664ebaa7a295b34bf9f66f5d1cb8c0ac45d",
+        "size_in_bytes": 10933
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/caching_sha2_password.py",
+        "path_type": "hardlink",
+        "sha256": "8c8a88c46c5fc54e4f15229bf51ce93e0498a37d2fdbef0a4ec60e0b97154658",
+        "sha256_in_prefix": "8c8a88c46c5fc54e4f15229bf51ce93e0498a37d2fdbef0a4ec60e0b97154658",
+        "size_in_bytes": 5849
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/mysql_clear_password.py",
+        "path_type": "hardlink",
+        "sha256": "779d86fe4ebb0743e3405f4dc688e8524ad603ca8d84007c2de83ba92aa39843",
+        "sha256_in_prefix": "779d86fe4ebb0743e3405f4dc688e8524ad603ca8d84007c2de83ba92aa39843",
+        "size_in_bytes": 3879
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/mysql_native_password.py",
+        "path_type": "hardlink",
+        "sha256": "09cd04e057f2f99ad5db499560771c36e93928f5a8e89f73a82aac4fe50e97ee",
+        "sha256_in_prefix": "09cd04e057f2f99ad5db499560771c36e93928f5a8e89f73a82aac4fe50e97ee",
+        "size_in_bytes": 4533
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/plugins/sha256_password.py",
+        "path_type": "hardlink",
+        "sha256": "a46bbf3e240e13a146469c66929e753f3599a1011e8e66de912529651b99ef0b",
+        "sha256_in_prefix": "a46bbf3e240e13a146469c66929e753f3599a1011e8e66de912529651b99ef0b",
+        "size_in_bytes": 4020
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/pooling.py",
+        "path_type": "hardlink",
+        "sha256": "b9191024b245350d14ee4ef20cfab2a1785908d23a5ad54c141b735e1767fbeb",
+        "sha256_in_prefix": "b9191024b245350d14ee4ef20cfab2a1785908d23a5ad54c141b735e1767fbeb",
+        "size_in_bytes": 25115
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/protocol.py",
+        "path_type": "hardlink",
+        "sha256": "575d9ed7a963da3e76853e6e07c488a0c0e1d5e4185174e990a70e67ff2f3d3c",
+        "sha256_in_prefix": "575d9ed7a963da3e76853e6e07c488a0c0e1d5e4185174e990a70e67ff2f3d3c",
+        "size_in_bytes": 42510
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/tls_ciphers.py",
+        "path_type": "hardlink",
+        "sha256": "b0e2e7019ff47f03c570b01ed5a5b2066da8ab416e4bad333d0a5a580869049f",
+        "sha256_in_prefix": "b0e2e7019ff47f03c570b01ed5a5b2066da8ab416e4bad333d0a5a580869049f",
+        "size_in_bytes": 9155
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/types.py",
+        "path_type": "hardlink",
+        "sha256": "1876da876e854568c499e4cef523b829962b2444d6de65b60deac9e391944993",
+        "sha256_in_prefix": "1876da876e854568c499e4cef523b829962b2444d6de65b60deac9e391944993",
+        "size_in_bytes": 5963
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/utils.py",
+        "path_type": "hardlink",
+        "sha256": "a697e184803fcb392a0af24a1b16c9cd88b2e81008a980c2e36aa05ecfe1fe9d",
+        "sha256_in_prefix": "a697e184803fcb392a0af24a1b16c9cd88b2e81008a980c2e36aa05ecfe1fe9d",
+        "size_in_bytes": 23609
+      },
+      {
+        "_path": "Lib/site-packages/mysql/connector/version.py",
+        "path_type": "hardlink",
+        "sha256": "45cc120d79034550ff0d802845cea12d9702b57d8881159d02eb6eaa7841bfcc",
+        "sha256_in_prefix": "45cc120d79034550ff0d802845cea12d9702b57d8881159d02eb6eaa7841bfcc",
+        "size_in_bytes": 1980
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "2f0919c828396248b4be2754c83da0377a8260302c6183dd83c8b7f930f13ae6",
+        "sha256_in_prefix": "2f0919c828396248b4be2754c83da0377a8260302c6183dd83c8b7f930f13ae6",
+        "size_in_bytes": 201535
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "77b1fec6816fba3bce957bca2155c26e009ef9ca5c82d7d660a68a9a5c727aa8",
+        "sha256_in_prefix": "77b1fec6816fba3bce957bca2155c26e009ef9ca5c82d7d660a68a9a5c727aa8",
+        "size_in_bytes": 1992
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c0e1c7380f70c944fc515af1bf8bb322502345fb6ab0ca546f74a22c0cb8ca2a",
+        "sha256_in_prefix": "c0e1c7380f70c944fc515af1bf8bb322502345fb6ab0ca546f74a22c0cb8ca2a",
+        "size_in_bytes": 12131
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "73b4961b5fe146f73d1d71c49265a54eed49af85a9cd1b9c7f3a933feffcab4b",
+        "sha256_in_prefix": "73b4961b5fe146f73d1d71c49265a54eed49af85a9cd1b9c7f3a933feffcab4b",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5be3ee163fdae255f76ecf3fefcba6f7b6faabea249c0ec63de641a8624e3153",
+        "sha256_in_prefix": "5be3ee163fdae255f76ecf3fefcba6f7b6faabea249c0ec63de641a8624e3153",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "Lib/site-packages/mysql_connector_python-9.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "78a45802dfd1974ac3fc64dd6acc14f022b2b4aa68a003f5df5d9ca443cd6d3d",
+        "sha256_in_prefix": "78a45802dfd1974ac3fc64dd6acc14f022b2b4aa68a003f5df5d9ca443cd6d3d",
+        "size_in_bytes": 23
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "mysql-connector-python",
+  "sha256": "adfdc95bcfff676b68bbe46c5b50560dfbc727a35a48dce2f52ab715d72bf015",
+  "size": 517117,
+  "subdir": "win-64",
+  "timestamp": 1725368008000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/mysql-connector-python-9.0.0-py312h275cf98_1.conda",
+  "version": "9.0.0"
+}

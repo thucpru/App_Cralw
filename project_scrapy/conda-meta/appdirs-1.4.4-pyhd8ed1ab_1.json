@@ -1,0 +1,50 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\appdirs-1.4.4-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/appdirs-1.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/LICENSE.txt",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/METADATA",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/RECORD",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/REQUESTED",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/WHEEL",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/appdirs-1.4.4.dist-info/top_level.txt",
+    "Lib/site-packages/appdirs.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/appdirs.cpython-312.pyc"
+  ],
+  "fn": "appdirs-1.4.4-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\appdirs-1.4.4-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "f4e90937bbfc3a4a92539545a37bb448",
+  "name": "appdirs",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\appdirs-1.4.4-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/appdirs.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5b9ef6d338525b332e17c3ed089ca2f53a5d74b7a7b432747d29c6466e39346d",
+  "size": 14835,
+  "subdir": "noarch",
+  "timestamp": 1733754069000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/appdirs-1.4.4-pyhd8ed1ab_1.conda",
+  "version": "1.4.4"
+}

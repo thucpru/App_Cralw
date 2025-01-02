@@ -1,0 +1,80 @@
+{
+  "build": "pyha770c72_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "service_identity >=24.2.0,<24.2.1.0a0"
+  ],
+  "depends": [
+    "attrs >=19.1.0",
+    "cryptography",
+    "pyasn1",
+    "pyasn1-modules",
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\service-identity-24.2.0-pyha770c72_1",
+  "files": [
+    "Lib/site-packages/service_identity-24.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/METADATA",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/RECORD",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/WHEEL",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/service_identity-24.2.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/service_identity/__init__.py",
+    "Lib/site-packages/service_identity/cryptography.py",
+    "Lib/site-packages/service_identity/exceptions.py",
+    "Lib/site-packages/service_identity/hazmat.py",
+    "Lib/site-packages/service_identity/py.typed",
+    "Lib/site-packages/service_identity/pyopenssl.py",
+    ".nonadmin",
+    "Lib/site-packages/service_identity/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/cryptography.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/hazmat.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/pyopenssl.cpython-312.pyc"
+  ],
+  "fn": "service-identity-24.2.0-pyha770c72_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\service-identity-24.2.0-pyha770c72_1",
+    "type": 1
+  },
+  "md5": "019e3e9f833650d6607b8f3120d5e972",
+  "name": "service-identity",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\service-identity-24.2.0-pyha770c72_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/cryptography.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/hazmat.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/pyopenssl.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7d99c6f72ed8a883fba3a04c108288f4e7320e86ea7e86d8821f071cb33190af",
+  "size": 16095,
+  "subdir": "noarch",
+  "timestamp": 1733366837000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/service-identity-24.2.0-pyha770c72_1.conda",
+  "version": "24.2.0"
+}

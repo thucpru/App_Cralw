@@ -1,0 +1,35 @@
+{
+  "build": "hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "service-identity >=24.2.0,<24.2.1.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\service_identity-24.2.0-hd8ed1ab_1",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "service_identity-24.2.0-hd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\service_identity-24.2.0-hd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "63d544814ef570ae86af81f8ce7d05ad",
+  "name": "service_identity",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\service_identity-24.2.0-hd8ed1ab_1.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ef233188a3f189b2a17e555ab2d18d378f314225f51b98d206aa3bf7d0acc1ff",
+  "size": 6619,
+  "subdir": "noarch",
+  "timestamp": 1733366838000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/service_identity-24.2.0-hd8ed1ab_1.conda",
+  "version": "24.2.0"
+}

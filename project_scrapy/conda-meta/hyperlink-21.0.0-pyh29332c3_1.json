@@ -1,0 +1,126 @@
+{
+  "build": "pyh29332c3_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "idna >=2.6",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\hyperlink-21.0.0-pyh29332c3_1",
+  "files": [
+    "Lib/site-packages/hyperlink/__init__.py",
+    "Lib/site-packages/hyperlink/_socket.py",
+    "Lib/site-packages/hyperlink/_url.py",
+    "Lib/site-packages/hyperlink/hypothesis.py",
+    "Lib/site-packages/hyperlink/idna-tables-properties.csv.gz",
+    "Lib/site-packages/hyperlink/py.typed",
+    "Lib/site-packages/hyperlink/test/__init__.py",
+    "Lib/site-packages/hyperlink/test/common.py",
+    "Lib/site-packages/hyperlink/test/test_common.py",
+    "Lib/site-packages/hyperlink/test/test_decoded_url.py",
+    "Lib/site-packages/hyperlink/test/test_hypothesis.py",
+    "Lib/site-packages/hyperlink/test/test_parse.py",
+    "Lib/site-packages/hyperlink/test/test_scheme_registration.py",
+    "Lib/site-packages/hyperlink/test/test_socket.py",
+    "Lib/site-packages/hyperlink/test/test_url.py",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/LICENSE",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/METADATA",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/RECORD",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/WHEEL",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/hyperlink-21.0.0.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/hyperlink/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/__pycache__/_socket.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/__pycache__/_url.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/__pycache__/hypothesis.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/common.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_common.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_decoded_url.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_hypothesis.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_parse.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_scheme_registration.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_socket.cpython-312.pyc",
+    "Lib/site-packages/hyperlink/test/__pycache__/test_url.cpython-312.pyc"
+  ],
+  "fn": "hyperlink-21.0.0-pyh29332c3_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\hyperlink-21.0.0-pyh29332c3_1",
+    "type": 1
+  },
+  "md5": "c27acdecaf3c311e5781b81fe02d9641",
+  "name": "hyperlink",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\hyperlink-21.0.0-pyh29332c3_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/hyperlink/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/__pycache__/_socket.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/__pycache__/_url.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/__pycache__/hypothesis.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/common.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_common.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_decoded_url.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_hypothesis.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_parse.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_scheme_registration.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_socket.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/hyperlink/test/__pycache__/test_url.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6fc0a91c590b3055bfb7983e6521c7b780ab8b11025058eaf898049ea827d829",
+  "size": 74751,
+  "subdir": "noarch",
+  "timestamp": 1733319972000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/hyperlink-21.0.0-pyh29332c3_1.conda",
+  "version": "21.0.0"
+}

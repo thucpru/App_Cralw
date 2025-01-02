@@ -1,0 +1,130 @@
+==> 2024-12-28 16:06:27 <==
+# cmd: C:\Users\thucp\anaconda3\Scripts\conda-script.py create --yes --json --prefix C:\Users\thucp\anaconda3\envs\project_scrapy python=3.12
+# conda version: 24.9.2
++defaults/noarch::tzdata-2024b-h04d1e81_0
++defaults/win-64::bzip2-1.0.8-h2bbff1b_6
++defaults/win-64::ca-certificates-2024.11.26-haa95532_0
++defaults/win-64::expat-2.6.4-h8ddb27b_0
++defaults/win-64::libffi-3.4.4-hd77b12b_1
++defaults/win-64::openssl-3.0.15-h827c3e9_0
++defaults/win-64::pip-24.2-py312haa95532_0
++defaults/win-64::python-3.12.8-h14ffc60_0
++defaults/win-64::setuptools-75.1.0-py312haa95532_0
++defaults/win-64::sqlite-3.45.3-h2bbff1b_0
++defaults/win-64::tk-8.6.14-h0416ee5_0
++defaults/win-64::vc-14.40-haa95532_2
++defaults/win-64::vs2015_runtime-14.42.34433-h9531ae6_2
++defaults/win-64::wheel-0.44.0-py312haa95532_0
++defaults/win-64::xz-5.4.6-h8cc25b3_1
++defaults/win-64::zlib-1.2.13-h8cc25b3_1
+# update specs: ['python=3.12']
+==> 2024-12-28 16:15:30 <==
+# cmd: C:\Users\thucp\anaconda3\Scripts\conda-script.py install -c conda-forge scrapy
+# conda version: 24.9.2
+-defaults/win-64::ca-certificates-2024.11.26-haa95532_0
+-defaults/win-64::openssl-3.0.15-h827c3e9_0
+-defaults/win-64::python-3.12.8-h14ffc60_0
+-defaults/win-64::tk-8.6.14-h0416ee5_0
+-defaults/win-64::vs2015_runtime-14.42.34433-h9531ae6_2
+-defaults/win-64::zlib-1.2.13-h8cc25b3_1
++conda-forge/noarch::appdirs-1.4.4-pyhd8ed1ab_1
++conda-forge/noarch::attrs-24.3.0-pyh71513ae_0
++conda-forge/noarch::automat-24.8.1-pyhd8ed1ab_1
++conda-forge/noarch::certifi-2024.12.14-pyhd8ed1ab_0
++conda-forge/noarch::charset-normalizer-3.4.0-pyhd8ed1ab_1
++conda-forge/noarch::constantly-15.1.0-py_0
++conda-forge/noarch::cssselect-1.2.0-pyhd8ed1ab_0
++conda-forge/noarch::defusedxml-0.7.1-pyhd8ed1ab_0
++conda-forge/noarch::filelock-3.16.1-pyhd8ed1ab_1
++conda-forge/noarch::h2-4.1.0-pyhd8ed1ab_1
++conda-forge/noarch::hpack-4.0.0-pyhd8ed1ab_1
++conda-forge/noarch::hyperframe-6.0.1-pyhd8ed1ab_1
++conda-forge/noarch::hyperlink-21.0.0-pyh29332c3_1
++conda-forge/noarch::idna-3.10-pyhd8ed1ab_1
++conda-forge/noarch::incremental-24.7.2-pyhd8ed1ab_1
++conda-forge/noarch::itemadapter-0.10.0-pyhd8ed1ab_0
++conda-forge/noarch::itemloaders-1.3.2-pyhd8ed1ab_1
++conda-forge/noarch::jmespath-1.0.1-pyhd8ed1ab_1
++conda-forge/noarch::packaging-24.2-pyhd8ed1ab_2
++conda-forge/noarch::parsel-1.9.1-pyhd8ed1ab_3
++conda-forge/noarch::protego-0.3.1-pyhd8ed1ab_1
++conda-forge/noarch::pyasn1-0.6.1-pyhd8ed1ab_2
++conda-forge/noarch::pyasn1-modules-0.4.1-pyhd8ed1ab_1
++conda-forge/noarch::pycparser-2.22-pyh29332c3_1
++conda-forge/noarch::pydispatcher-2.0.5-py_1
++conda-forge/noarch::pyopenssl-24.3.0-pyhd8ed1ab_0
++conda-forge/noarch::pysocks-1.7.1-pyh09c184e_7
++conda-forge/noarch::queuelib-1.7.0-pyhd8ed1ab_2
++conda-forge/noarch::requests-2.32.3-pyhd8ed1ab_1
++conda-forge/noarch::requests-file-2.1.0-pyhd8ed1ab_1
++conda-forge/noarch::service-identity-24.2.0-pyha770c72_1
++conda-forge/noarch::service_identity-24.2.0-hd8ed1ab_1
++conda-forge/noarch::six-1.17.0-pyhd8ed1ab_0
++conda-forge/noarch::tldextract-5.1.3-pyhd8ed1ab_1
++conda-forge/noarch::tomli-2.2.1-pyhd8ed1ab_1
++conda-forge/noarch::typing-extensions-4.12.2-hd8ed1ab_1
++conda-forge/noarch::typing_extensions-4.12.2-pyha770c72_1
++conda-forge/noarch::urllib3-2.3.0-pyhd8ed1ab_0
++conda-forge/noarch::w3lib-2.2.1-pyhd8ed1ab_0
++conda-forge/noarch::win_inet_pton-1.1.0-pyh7428d3b_8
++conda-forge/win-64::bcrypt-4.2.1-py312h2615798_0
++conda-forge/win-64::brotli-python-1.1.0-py312h275cf98_2
++conda-forge/win-64::ca-certificates-2024.12.14-h56e8100_0
++conda-forge/win-64::cffi-1.17.1-py312h4389bb4_0
++conda-forge/win-64::cryptography-44.0.0-py312h9500af3_0
++conda-forge/win-64::libexpat-2.6.4-he0c23c2_0
++conda-forge/win-64::libiconv-1.17-hcfcfb64_2
++conda-forge/win-64::liblzma-5.6.3-h2466b09_1
++conda-forge/win-64::libsqlite-3.47.2-h67fdade_0
++conda-forge/win-64::libxml2-2.13.5-he286e8c_1
++conda-forge/win-64::libxslt-1.1.39-h3df6e99_0
++conda-forge/win-64::libzlib-1.3.1-h2466b09_2
++conda-forge/win-64::lxml-5.3.0-py312h53bce91_2
++conda-forge/win-64::openssl-3.4.0-h2466b09_0
++conda-forge/win-64::python-3.12.8-h3f84c4b_1_cpython
++conda-forge/win-64::python_abi-3.12-5_cp312
++conda-forge/win-64::pywin32-307-py312h275cf98_3
++conda-forge/win-64::scrapy-2.12.0-py312h2e8e312_1
++conda-forge/win-64::tk-8.6.13-h5226925_1
++conda-forge/win-64::twisted-24.11.0-py312h4389bb4_0
++conda-forge/win-64::twisted-iocpsupport-1.0.4-py312h4389bb4_2
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
++conda-forge/win-64::vc14_runtime-14.42.34433-he29a5d6_23
++conda-forge/win-64::vs2015_runtime-14.42.34433-hdffcdeb_23
++conda-forge/win-64::zlib-1.3.1-h2466b09_2
++conda-forge/win-64::zope.interface-7.2-py312h4389bb4_0
++conda-forge/win-64::zstandard-0.23.0-py312h7606c53_1
++conda-forge/win-64::zstd-1.5.6-h0ea2cb4_0
+# update specs: ['scrapy']
+==> 2024-12-29 11:22:02 <==
+# cmd: C:\Users\thucp\anaconda3\Scripts\conda-script.py install -c conda-forge mysql-connector-python
+# conda version: 24.9.2
++conda-forge/win-64::mysql-common-9.0.1-h2224204_3
++conda-forge/win-64::mysql-connector-python-9.0.0-py312h275cf98_1
++conda-forge/win-64::mysql-libs-9.0.1-h809f9c2_3
+# update specs: ['mysql-connector-python']
+==> 2024-12-29 11:23:35 <==
+# cmd: C:\Users\thucp\anaconda3\Scripts\conda-script.py install -c conda-forge unidecode
+# conda version: 24.9.2
++conda-forge/noarch::unidecode-1.3.8-pyh29332c3_1
+# update specs: ['unidecode']
+==> 2024-12-29 12:10:23 <==
+# cmd: C:\Users\thucp\anaconda3\Scripts\conda-script.py install -c conda-forge pymysql
+# conda version: 24.9.2
++conda-forge/noarch::pymysql-1.1.1-pyhd8ed1ab_1
+# update specs: ['pymysql']
+==> 2024-12-30 20:39:51 <==
+# cmd: C:\Users\thucp\anaconda3\Scripts\conda-script.py install -c conda-forge selenium
+# conda version: 24.9.2
++conda-forge/noarch::exceptiongroup-1.2.2-pyhd8ed1ab_1
++conda-forge/noarch::h11-0.14.0-pyhd8ed1ab_1
++conda-forge/noarch::outcome-1.3.0.post0-pyhd8ed1ab_1
++conda-forge/noarch::selenium-4.27.1-pyhd8ed1ab_0
++conda-forge/noarch::sniffio-1.3.1-pyhd8ed1ab_1
++conda-forge/noarch::sortedcontainers-2.4.0-pyhd8ed1ab_0
++conda-forge/noarch::trio-websocket-0.11.1-pyhd8ed1ab_1
++conda-forge/noarch::websocket-client-1.8.0-pyhd8ed1ab_1
++conda-forge/noarch::wsproto-1.2.0-pyhd8ed1ab_1
++conda-forge/win-64::selenium-manager-4.27.0-ha073cba_0
++conda-forge/win-64::trio-0.28.0-py312h2e8e312_0
+# update specs: ['selenium']

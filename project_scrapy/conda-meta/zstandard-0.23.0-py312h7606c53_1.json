@@ -1,0 +1,53 @@
+{
+  "build": "py312h7606c53_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.11",
+    "python >=3.12,<3.13.0a0",
+    "python_abi 3.12.* *_cp312",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "zstd >=1.5.6,<1.5.7.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\thucp\\anaconda3\\pkgs\\zstandard-0.23.0-py312h7606c53_1",
+  "files": [
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/PKG-INFO",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/SOURCES.txt",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/dependency_links.txt",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/requires.txt",
+    "Lib/site-packages/zstandard-0.23.0-py3.12.egg-info/top_level.txt",
+    "Lib/site-packages/zstandard/__init__.py",
+    "Lib/site-packages/zstandard/__init__.pyi",
+    "Lib/site-packages/zstandard/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/zstandard/__pycache__/backend_cffi.cpython-312.pyc",
+    "Lib/site-packages/zstandard/_cffi.cp312-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_c.cp312-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_cffi.py",
+    "Lib/site-packages/zstandard/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "zstandard-0.23.0-py312h7606c53_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\thucp\\anaconda3\\pkgs\\zstandard-0.23.0-py312h7606c53_1",
+    "type": 1
+  },
+  "md5": "a92cc3435b2fd6f51463f5a4db5c50b1",
+  "name": "zstandard",
+  "package_tarball_full_path": "C:\\Users\\thucp\\anaconda3\\pkgs\\zstandard-0.23.0-py312h7606c53_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3e0c718aa18dcac7f080844dbe0aea41a9cea75083019ce02e8a784926239826",
+  "size": 320624,
+  "subdir": "win-64",
+  "timestamp": 1725305934000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/zstandard-0.23.0-py312h7606c53_1.conda",
+  "version": "0.23.0"
+}

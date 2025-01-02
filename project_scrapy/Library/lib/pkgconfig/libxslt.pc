@@ -1,0 +1,12 @@
+prefix=C:/Users/thucp/anaconda3/envs/project_scrapy/Library
+exec_prefix=C:/Users/thucp/anaconda3/envs/project_scrapy/Library
+libdir=C:/Users/thucp/anaconda3/envs/project_scrapy/Library/lib
+includedir=C:/Users/thucp/anaconda3/envs/project_scrapy/Library/include
+
+
+Name: libxslt
+Version: 1.1.39
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Cflags: -I${includedir}
+Libs: -L${libdir} -lxslt
